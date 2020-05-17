@@ -1,9 +1,9 @@
 # simpleGraphs
 Simple and lightweight javascript graph library.
 
-Allows usage of the graph(array, options, target) function.
+Allows usage of the <strong stryle="color: burgandy;">graph(array, options, target)</strong> function.
 
-Parameters:
+<strong style="color: teal;">Parameters</strong>:
 <ul>
 <li>
   <strong>'array'</strong>: Takes an array of objects representing each bar in the graph. Each bar object should have the following values:
